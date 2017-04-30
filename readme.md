@@ -10,3 +10,4 @@ Currently, this is mostly data cleaning and munging. There are some interesting 
 	- There is a calculated field labled `percent_population_covered` which is the `population covered` field divided by the `est_pop` (estimated population) field
 
 
+For the adventurous, there's some attempted modeling in the modeling notebook as well.
